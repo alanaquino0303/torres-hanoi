@@ -49,7 +49,7 @@ Implementación interactiva de las **Torres de Hanói** en C++ para consola. El 
    ./torres_hanoi
    ```
 
-### En Windows (con MinGW)
+### En Windows
 1. Compilar el código:
 
    ```bash
