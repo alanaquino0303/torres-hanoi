@@ -20,15 +20,15 @@ Implementación interactiva de las **Torres de Hanói** en C++ para consola. El 
 
 ```
 / torres-hanoi
-├── torres_hanoi.cpp      # Código fuente principal.
-├── README.md             # Documentación del proyecto.
+├─ torres_hanoi.cpp      # Código fuente principal.
+└─ README.md             # Documentación del proyecto.
 ```
 
 ---
 
 ## Requisitos
 
-- **Linux/macOS**: `g++`, `clang++`.
+- **Linux o macOS**: Compilador `g++`, `clang++`.
 - **Windows**: MinGW (`g++`).
 - Terminal o consola de comandos para ejecutar el programa.
 
